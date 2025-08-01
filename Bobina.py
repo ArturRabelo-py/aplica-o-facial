@@ -1,6 +1,5 @@
 # --- ETAPA 0: CONFIGURAÇÃO DE AMBIENTE E IMPORTS ---
 import os
-
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
 import dash
