@@ -1,0 +1,10 @@
+dash
+dash-bootstrap-components
+Pillow
+numpy
+opencv-python
+deepface
+scipy
+tqdm
+imgaug
+gunicorn
