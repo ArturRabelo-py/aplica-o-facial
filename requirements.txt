@@ -1,13 +1,13 @@
-dash
+dash==2.16.1
 dash-bootstrap-components
-Pillow
+Pillow==9.5.0
 opencv-python
 deepface==0.0.79
 scipy
 tqdm
 imgaug
 gunicorn
-tensorflow-cpu==2.15.0
-numpy==1.26.4
+tensorflow-cpu==2.12.0
+numpy==1.23.5
 setuptools
 wheel
